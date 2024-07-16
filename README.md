@@ -4,7 +4,7 @@
 
 # Hola, I'm Max Robles
 
-I'm a junior front-end developer with a full stack bootcamp. While I'm still building my confidence in my skills, I've got a good grasp of JavaScript, TypeScript, CSS, and HTML. I'm excited to dive into different areas of software development and I'm always up for trying out new projects!
+I'm a junior front-end developer with a full stack bootcamp. While I'm still building my confidence in my skills, I have knowledge in JavaScript, TypeScript, CSS, and HTML. I'm excited to explore different areas of software development and always up for new projects!
 
 ## 🛠 Skills and Technologies
 - **Languages:** JavaScript, TypeScript, CSS, HTML
