@@ -1,4 +1,6 @@
-![Wave Hi](./public/wave-hi.gif)
+<div style="text-align: center;">
+    <img src="./public/wave-hi.gif" alt="Wave Hi" width="100"/>
+</div>
 
 # Hola, I'm Max Robles
 
