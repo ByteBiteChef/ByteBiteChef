@@ -9,7 +9,7 @@ I'm a junior front-end developer with a full stack bootcamp. While I'm still bui
 ## 🛠 Skills and Technologies
 - **Languages:** JavaScript, TypeScript, CSS, HTML
 - **Frameworks and Libraries:** React, React Native, Bootstrap, Tailwind, Node.js, Next.js
-- **Tools and Platforms:** GitHub, VSCode, Figma
+- **Tools and Platforms:** GitHub, VSCode, Figma, Expo
 
 ## 🚀 Projects
 ### Chess Timekeeper
@@ -37,4 +37,4 @@ An engaging and interactive quiz game designed for iPhone, built with React Nati
 - **LinkedIn:** [Maximiliano Robles](https://www.linkedin.com/in/maximiliano-robles-39436113b/)
 
 ## 🌱 Other Interests
-In addition to coding, I am a professional chef with over 15 years of experience. For the past 5 years, I have worked in Paris, managing kitchen organizations with teams of up to 10 people.
+In addition to coding, I am a professional chef de cuisine with over 15 years of experience. For the past 5 years, I have worked in Paris, managing kitchen organizations with teams of up to 10 people.
