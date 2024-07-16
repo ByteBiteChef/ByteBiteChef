@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="./public/wave-hi.gif" alt="Wave Hi" width="100"/>
+    <img src="./public/wave-hi.gif" alt="Wave Hi" width="90"/>
 </div>
 
 # Hola, I'm Max Robles
@@ -12,12 +12,12 @@ I'm a junior front-end developer with a full stack bootcamp. While I'm still bui
 - **Tools and Platforms:** GitHub, VSCode, Figma, Expo
 
 ## 🚀 Projects
-### Chess Timekeeper
+#### Chess Timekeeper
 This Chess Clock App is a mobile application developed using Expo and React Native. It's designed for chess players to keep track of their time during games. The app features individual timers for each player, customizable time settings, and increment options. The sleek and user-friendly interface makes it suitable for both casual and competitive play.
 
 - **Check it out [here](https://apps.apple.com/fr/app/chess-timekeeper/id6473749061?l=en-GB)**
 
-### Argentometro
+#### Argentometro
 An engaging and interactive quiz game designed for iPhone, built with React Native. This app offers a variety of questions across multiple categories of Argentinian culture, challenging players with timed questions, levels, and rewards.
 
 - **Check it out [here](https://apps.apple.com/fr/app/argentometro/id6475984871?l=en-GB)**
