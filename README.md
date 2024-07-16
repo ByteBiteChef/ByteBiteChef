@@ -22,7 +22,7 @@ An engaging and interactive quiz game designed for iPhone, built with React Nati
 
 ## 🎓 Education
 - **Bootcamp:** SoyHenry boot camp, started end of March and finishing end of August.
--  Studied coding independently for about five months.
+-  I studied coding independently for about five months.
 
 ## 🌐 Languages
 - **Spanish:** Native
@@ -30,7 +30,7 @@ An engaging and interactive quiz game designed for iPhone, built with React Nati
 - **French:** Professional working proficiency
 
 ## 📫 Contact
--**Paris, France**
+- **Paris, France**
 - **Email:** maxirobles1234@gmail.com
 - **LinkedIn:** [Maximiliano Robles](https://www.linkedin.com/in/maximiliano-robles-39436113b/)
 
