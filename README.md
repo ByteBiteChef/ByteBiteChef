@@ -22,6 +22,11 @@ An engaging and interactive quiz game designed for iPhone, built with React Nati
 
 - **Check it out [here](https://apps.apple.com/fr/app/argentometro/id6475984871?l=en-GB)**
 
+- #### AgroManager 
+  This agriculture plot manager tackled a real issue for farmers in managing their agricultural plots bringin a practical solution to a common problem in the industry.
+
+  - **Check it out [here](https://agromanager.vercel.app/)**
+
 ## 🎓 Education
 - **Bootcamp:** SoyHenry boot camp, started end of March and finishing end of August.
 -  I studied coding independently for about five months.
